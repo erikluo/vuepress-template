@@ -1,2 +1,2 @@
-# AI 唯美小智 
+# VuePress Template
 
